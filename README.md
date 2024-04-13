@@ -1,2 +1,2 @@
 # Pinnacle-Properties-Website
-Website for Real Estate
+Pinnacle Properties is a dynamic website crafted with HTML, CSS, JavaScript, and powered by PHP. Our platform serves as a centralized hub connecting potential buyers and renters with property owners across Lebanon. Whether you're seeking your dream home, a lucrative investment property, or looking to rent, Pinnacle Properties simplifies the process by offering a comprehensive database of listings from across the country. With user-friendly navigation and powerful search features, finding your ideal property has never been easier. Join Pinnacle Properties today and embark on your journey towards finding the perfect place to call home.
